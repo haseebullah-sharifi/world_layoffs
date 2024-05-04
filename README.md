@@ -23,7 +23,7 @@ The dataset consists of the following columns:
 ### Data Cleaning
 The data cleaning process involved the following steps:
 
-**1.** Removing duplicates.
+**1.** Removing duplicates
 **2.** Standardizing the data
 **3.** Dealing with NULL values
 **4.** Removing unnecessary rows and columns
